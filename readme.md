@@ -4,5 +4,6 @@
     * review the code
 1) execute command `npm install` in the root folder, wait until finished
 1) execute command `npm run build` in the root folder, wait until finished
-1) open file `index.html` in the folder `/dist`
+   * this command will create the `index.html` file into the folder `/dist`
+3) open file `index.html` in the folder `/dist`
 
